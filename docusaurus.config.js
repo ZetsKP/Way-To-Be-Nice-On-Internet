@@ -8,13 +8,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Piracy",
   tagline: "It's illegal cuz they can't tax you!",
-  url: "https://piracy.vercel.app",
+  url: "https://bajakan.vercel.app",
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "xuac",
-  projectName: "piracy",
+  projectName: "bajakan",
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -61,7 +61,7 @@ const config = {
         docs: {
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/ZetsKP/Bajakan",
+          editUrl: "https://gitlab.com/zets.kp/piracy/-/tree/master/docs",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
