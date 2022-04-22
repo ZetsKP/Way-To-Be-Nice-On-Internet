@@ -61,7 +61,7 @@ const config = {
         docs: {
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://gitlab.com/zets.kp/piracy/-/tree/master/docs",
+          editUrl: "https://github.com/ZetsKP/Bajakan/blob/master/README.md",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
