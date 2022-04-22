@@ -34,7 +34,7 @@ const config = {
         },
         items: [
           {
-            href: "https://gitlab.com/piracy/piracy",
+            href: "https://github.com/ZetsKP/Bajakan",
             label: "GitLab",
             position: "right",
           },
@@ -47,7 +47,7 @@ const config = {
       announcementBar: {
         id: "star",
         content:
-          '<b><a target="_blank" href="https://gitlab.com/piracy/piracy#:~:text=star">PLEASE LEAVE A STAR ON GITLAB</a></b>',
+          '<b><a target="_blank" href="https://github.com/ZetsKP/Bajakan">PLEASE LEAVE A STAR ON GITLAB</a></b>',
         backgroundColor: "var(--ifm-background-surface-color)",
         textColor: "var(--ifm-color-primary)",
       },
@@ -61,7 +61,7 @@ const config = {
         docs: {
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://gitlab.com/piracy/piracy/-/edit/master/docs/",
+          editUrl: "https://github.com/ZetsKP/Bajakan",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
