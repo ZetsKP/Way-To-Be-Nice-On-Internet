@@ -22,10 +22,9 @@ sidebar_label: Protection
 ## AdBlock Extensions
 - [uBlock Origin](https://github.com/gorhill/uBlock#installation) -  An efficient blocker for Chromium and Firefox. Fast and lean.
 - [AdNauseam](https://adnauseam.io) - Fight back against advertising surveillance.
-- [Fair Adblocker](https://www.standsapp.org) - Block annoying ads, popups, malware, and protect your privacy.
+- [Fair Adblocker](https://chrome.google.com/webstore/detail/fair-adblocker/lgblnfidahcdcjddiepkckcfdhpknnjh) - Block annoying ads, popups, malware, and protect your privacy.
 - [AdBlock](https://getadblock.com) - Surf the web without annoying pop ups and ads!
-- [AdGuard](https://adguard.com) - Say no to ads and trackers.
-
+- [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) - Say no to ads and trackers.
 
 ## Bypass 'Shortlink'
 - [Fast Forward](https://fastforward.team/install) - Dont Waste time.
@@ -42,16 +41,13 @@ sidebar_label: Protection
 - [Behind The Overlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Block Website Overlays.
 - [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website) - Block Website Overlays.
 
-- [Fakespot](https://www.fakespot.com/) - Identifies Fake Reviews & Counterfeits.
-
 ## DNS Adblocking
-
-- [Adguard](https://adguard.com/en/adguard-dns/overview.html) - [Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt) / [Filter](https://github.com/hl2guide/Filterlist-for-AdGuard)
-- [AlternateDNS](https://alternate-dns.com/index.php)
-- [Quad9](https://quad9.net/)
-- [ahadns](https://ahadns.com/)
-- [Diversion](https://diversion.ch/)
-- [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
+- [Adguard](https://adguard-dns.io) - ad-blocking DNS Server
+- [AlternateDNS](https://alternate-dns.com) - Ad Blocking DNS Server
+- [Technitium DNS Server](https://technitium.com/dns) - Block Ads & Malware at DNS Level for Your Entire Network!
+- [Quad9](https://quad9.net/support/set-up-guides/) - A Public and free DNS Service
+- [DuckDNS](https://www.duckdns.org/install.jsp) - Free Dynamic DNS hosted on AWS
+- [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
 - [Rethink](https://rethinkdns.com/)
 - [Encrypted DNS Resolvers](https://www.privacytools.io/providers/dns/)
 - [Pi-Hole](https://pi-hole.net/) + Filters _[1](https://firebog.net/), [2](https://ftpihole.com/)_
