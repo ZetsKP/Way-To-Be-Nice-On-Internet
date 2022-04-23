@@ -6,7 +6,7 @@ sidebar_label: Protection---
 - [Ad Blocker Test](https://d3ward.github.io/toolz/adblock) - d3ward
 - [AdBlock Tester](https://adblock-tester.com) - Test your adblockers
 - [Can You Block It ?](https://canyoublockit.com) - A Simple Ad Block Tester
-- [Ads Blocker ?](https://ads-blocker.com) - We Help You By Blocking Ads
+- Ads Blocker ?](https://ads-blocker.com) - We Help You By Blocking Ads
 
 ## :page_facing_up: Block with Host
 - [Someonewhocares](https://someonewhocares.org/hosts) - How to make the internet not suck (as much)
