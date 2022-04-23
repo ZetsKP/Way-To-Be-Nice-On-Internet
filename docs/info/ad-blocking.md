@@ -1,19 +1,29 @@
 ---
-title: Ad Blocking
-sidebar_label: Ad Blocking
+title: Fuck the Ads
+sidebar_label: Protection
 ---
 
-- ⭐ [Can You Block It?](https://canyoublockit.com/) or ⭐ [AdBlock Tester](https://adblock-tester.com/) - Test your adblockers
-- [Adbox](http://raymondhill.net/ublock/adbox.html) - Filter Test
-- [Stop Targeting Ads at Me](https://stoptargetingads.me/) or [Simple Opt Out](https://simpleoptout.com/) - Guides to turn off targeted ads on sites, apps, services & devices
-- [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm), [Hosts](https://github.com/StevenBlack/hosts) or [Gas Mask](https://github.com/2ndalpha/gasmask) (Mac) - Avoid Ads Using Hosts File
+## AdBlock Tester
+- [Ad Blocker Test](https://d3ward.github.io/toolz/adblock) - d3ward
+- [AdBlock Tester](https://adblock-tester.com) - Test your adblockers
+- [Can You Block It ?](https://canyoublockit.com) - A Simple Ad Block Tester
+- [Ads Blocker ?](https://ads-blocker.com) - We Help You By Blocking Ads
 
-## Adblocking Extensions
+## Block with Host
+- [Someonewhocares](https://someonewhocares.org/hosts) - How to make the internet not suck (as much)
+- [winhelp2002](https://winhelp2002.mvps.org/hosts.htm) - Blocking Unwanted Connections with a Hosts File
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources
+- [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X
 
-- ⭐ [uBlock Origin](https://github.com/gorhill/uBlock#installation) or [AdNauseam](https://adnauseam.io/) / [uBO Extra](https://github.com/gorhill/uBO-Extra) / [uBO Safari](https://github.com/el1t/uBlock-Safari)
-- ⭐ [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/) or [Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt) - Prevents sites from detecting adblocker / [Test](https://blockads.fivefilters.org/) /\_ ⭐ WARNING - \_Do [NOT](https://www.zdnet.com/article/google-removes-two-chrome-ad-blockers-caught-collecting-user-data/) use chrome version
-- ⭐ [uMatrix](https://github.com/gorhill/uMatrix#umatrix), [NoScript](https://noscript.net/) or [ScriptSafe](https://www.andryou.com/scriptsafe) - Blocks Malicious Scripts
-- [Redundant Rule Checker](https://abpvn.com/ruleChecker/redundantRuleChecker.html) - Find Redundant AdBlock Rules
+## Track Privacy Policy
+- [Simple Opt Out](https://simpleoptout.com) - Opt out of all the data sharing you wouldn't opt in to.
+- [Opt-Out Easy](https://optouteasy.isr.cmu.edu) - Take Control Of Your Privacy
+
+## AdBlock Extensions
+- [uBlock Origin](https://github.com/gorhill/uBlock#installation)
+- [AdNauseam](https://adnauseam.io/)
+- [uMatrix](https://github.com/gorhill/uMatrix#umatrix)
+- [NoScript](https://noscript.net/getit/)
 - [Universal Bypass](https://universal-bypass.org/), [Ad-Link Bypasser V2](https://thebypasser.com/versions/version2.html) or [AdsBypasser](https://adsbypasser.github.io/) - Skips Link Shorteners
 - [Skip Redirect](https://github.com/sblask/webextension-skip-redirect) - Bypass Redirects.
   - [Chrome](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon)
