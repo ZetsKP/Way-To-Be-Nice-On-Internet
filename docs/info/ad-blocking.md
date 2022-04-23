@@ -1,24 +1,24 @@
 ---
-title: 🖕 Fuck the Ads
+title: :fu: Fuck the Ads
 sidebar_label: Protection---
 
-## ✅ AdBlock Tester
+## :white_check_mark: AdBlock Tester
 - [Ad Blocker Test](https://d3ward.github.io/toolz/adblock) - d3ward
 - [AdBlock Tester](https://adblock-tester.com) - Test your adblockers
 - [Can You Block It ?](https://canyoublockit.com) - A Simple Ad Block Tester
 - [Ads Blocker ?](https://ads-blocker.com) - We Help You By Blocking Ads
 
-## 📄 Block with Host
+## :page_facing_up: Block with Host
 - [Someonewhocares](https://someonewhocares.org/hosts) - How to make the internet not suck (as much)
 - [winhelp2002](https://winhelp2002.mvps.org/hosts.htm) - Blocking Unwanted Connections with a Hosts File
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources
 - [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X
 
-## 🔍 Track Privacy Policy
+## :mag: Track Privacy Policy
 - [Simple Opt Out](https://simpleoptout.com) - Opt out of all the data sharing you wouldn't opt in to.
 - [Opt-Out Easy](https://optouteasy.isr.cmu.edu) - Take Control Of Your Privacy
 
-## ⚙️ AdBlock Extensions
+## :gear: AdBlock Extensions
 - [uBlock Origin](https://github.com/gorhill/uBlock#installation)
 - [AdNauseam](https://adnauseam.io/)
 - [uMatrix](https://github.com/gorhill/uMatrix#umatrix)
