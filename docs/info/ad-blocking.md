@@ -5,40 +5,44 @@ sidebar_label: Protection
 
 ## AdBlock Tester
 - [Ad Blocker Test](https://d3ward.github.io/toolz/adblock) - d3ward
-- [AdBlock Tester](https://adblock-tester.com) - Test your adblockers
-- [Can You Block It ?](https://canyoublockit.com) - A Simple Ad Block Tester
-- [Ads Blocker ?](https://ads-blocker.com) - We Help You By Blocking Ads
+- [AdBlock Tester](https://adblock-tester.com) - Test your adblockers!
+- [Can You Block It ?](https://canyoublockit.com) - A Simple Ad Block Tester.
+- [Ads Blocker](https://ads-blocker.com) - We Help You By Blocking Ads.
 
 ## Block with Host
-- [Someonewhocares](https://someonewhocares.org/hosts) - How to make the internet not suck (as much)
-- [winhelp2002](https://winhelp2002.mvps.org/hosts.htm) - Blocking Unwanted Connections with a Hosts File
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources
-- [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X
+- [Someonewhocares](https://someonewhocares.org/hosts) - How to make the internet not suck (as much).
+- [winhelp2002](https://winhelp2002.mvps.org/hosts.htm) - Blocking Unwanted Connections with a Hosts File.
+- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources.
+- [gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X.
 
 ## Track Privacy Policy
-- [Simple Opt Out](https://simpleoptout.com) - Opt out of all the data sharing you wouldn't opt in to.
-- [Opt-Out Easy](https://optouteasy.isr.cmu.edu) - Take Control Of Your Privacy
+- [Simple Opt Out](https://simpleoptout.com) - Opt out of all the data sharing you wouldn't opt in to..
+- [Opt-Out Easy](https://optouteasy.isr.cmu.edu) - Take Control Of Your Privacy.
 
 ## AdBlock Extensions
-- [uBlock Origin](https://github.com/gorhill/uBlock#installation)
-- [AdNauseam](https://adnauseam.io/)
-- [uMatrix](https://github.com/gorhill/uMatrix#umatrix)
-- [NoScript](https://noscript.net/getit/)
-- [Universal Bypass](https://universal-bypass.org/), [Ad-Link Bypasser V2](https://thebypasser.com/versions/version2.html) or [AdsBypasser](https://adsbypasser.github.io/) - Skips Link Shorteners
-- [Skip Redirect](https://github.com/sblask/webextension-skip-redirect) - Bypass Redirects.
-  - [Chrome](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon)
-  - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/)
-- [Linkvertise Bypass](https://greasyfork.org/en/scripts/409156-linkvertise-bypass) or [linkvertise-bypass](https://github.com/2Kernel/linkvertise-bypass) - Bypass Linkvertise Redirects / [Discord](https://discord.gg/cRmb8PrFdS)
-- [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - Multiple Twitch Adblocking Methods
-- [SponsorBlock](https://sponsor.ajay.app/) - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)
-- [Facebook Hide Ads](https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts) - Remove Sponsored Posts from Facebook
-- [LinkedIn Unsponsored](https://greasyfork.org/en/scripts/379003-linkedin-unsponsored) - Remove Sponsored Posts from LinkedIn
-- [OpenVideo](https://openvideofs.github.io) - Plays videos from streaming sites in a ad free player
-- [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) or [Behind The Overlay Revival](https://addons.mozilla.org/en-US/firefox/addon/behind-the-overlay-revival/) - Close Website Overlays
-- [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) - Overlay / Popup Blocker
-- [Don't Touch My Tabs!](https://addons.mozilla.org/en-US/firefox/user/12781645/) - Prevent hyperlinks from controlling other window objects
-- [AdGuard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adguard browser extension
-- [Fakespot](https://www.fakespot.com/) - Identifies Fake Reviews & Counterfeits
+- [uBlock Origin](https://github.com/gorhill/uBlock#installation) -  An efficient blocker for Chromium and Firefox. Fast and lean.
+- [AdNauseam](https://adnauseam.io) - Fight back against advertising surveillance.
+- [Fair Adblocker](https://www.standsapp.org) - Block annoying ads, popups, malware, and protect your privacy.
+- [AdBlock](https://getadblock.com) - Surf the web without annoying pop ups and ads!
+- [AdGuard](https://adguard.com) - Say no to ads and trackers.
+
+
+## Bypass 'Shortlink'
+- [Fast Forward](https://fastforward.team/install) - Dont Waste time.
+- [Buster](https://github.com/dessant/buster) - Captcha Solver for Humans.
+- [Skip Redirect](https://github.com/sblask/webextension-skip-redirect) - Skip intermediary pages that some pages use before redirecting to a final page.
+
+## Block Sponsored Ads
+- [TTV LOL](https://ttv.lol) - Block Twitch Ads.
+- [Adblock for Youtube](https://sites.google.com/view/adblock-for-yt/index) - Block YouTube Ads.
+- [SponsorBlock](https://sponsor.ajay.app/) - Skip Sponsored YouTube Ads.
+- [Facebook Adblock](https://github.com/facebook-adblock/facebook_adblock) - Block Facebook Ads.
+- [LinkedIn Unsponsored](https://greasyfork.org/en/scripts/379003-linkedin-unsponsored) - Block LinkedIn Ads.
+- [OpenVideo](https://openvideofs.github.io) - Ad Free Streaming.
+- [Behind The Overlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Block Website Overlays.
+- [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website) - Block Website Overlays.
+
+- [Fakespot](https://www.fakespot.com/) - Identifies Fake Reviews & Counterfeits.
 
 ## DNS Adblocking
 
