@@ -1,5 +1,5 @@
 ---
-title: :fu: Fuck the Ads
+title: Fuck the Ads
 sidebar_label: Protection---
 
 ## :white_check_mark: AdBlock Tester
