@@ -1,6 +1,6 @@
 ---
-title: Fuck the Ads
-sidebar_label: Protection
+title: AdBlock
+sidebar_label: AdBlock
 ---
 
 ## AdBlock Tester
