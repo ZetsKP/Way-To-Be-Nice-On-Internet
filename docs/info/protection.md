@@ -47,23 +47,12 @@ sidebar_label: Protection
 - [Technitium DNS Server](https://technitium.com/dns) - Block Ads & Malware at DNS Level for Your Entire Network!
 - [Quad9](https://quad9.net/support/set-up-guides/) - A Public and free DNS Service
 - [DuckDNS](https://www.duckdns.org/install.jsp) - Free Dynamic DNS hosted on AWS
-- [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
-- [Rethink](https://rethinkdns.com/)
-- [Encrypted DNS Resolvers](https://www.privacytools.io/providers/dns/)
-- [Pi-Hole](https://pi-hole.net/) + Filters _[1](https://firebog.net/), [2](https://ftpihole.com/)_
-- [Adhole](https://adhole.org/)
-- [ProxyNation](https://www.proxynation.org/)
-- [Blah DNS](https://blahdns.com/)
-- [ControlD](https://controld.com/) - DNS Manager
-- [Spamhaus](https://www.spamhaus.org/) - DNS Blocklists
-- [BIND](https://gitlab.isc.org/isc-projects/bind9) - Portable DNS Protocol
-- [Maza](https://maza-ad-blocking.andros.dev/) - Local DNS Adblocking
-- [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter/) - DNS filter proxy
-- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker) - Network-wide DNS Adblocking / [Setup](https://github.com/klutchell/balena-adguard)
-- [DNS Party](https://encrypted-dns.party/) - DNS Config Profiles for Apple Devices Encrypted
+- [FreeMyIP](https://freemyip.com) - Free dynamic DNS. No login required. No ads, newsletters, links to click, expiration dates, etc.
+- [Rethink](https://rethinkdns.com) - Block malware, spyware, ads, and trackers across all apps with RethinkDNS.
+- [Pi-Hole](https://pi-hole.net) - Network-wide protection
+- [ControlD](https://controld.com) - Control Your Internet
 
 ## Android Adblocking
-
 - ⭐ [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) or [WebApps](https://github.com/tobykurien/WebApps/) - Makes streaming and other sites more usable for android
 - ⭐ [Bromite](https://www.bromite.org/) - Android browser with powerful adblocking
 - ⭐ [AdGuard](https://forum.mobilism.org/search.php?keywords=adguard&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=25&t=0&submit=Search) - Adblocking App / Premium Unlocked / Mobilism Account Required
