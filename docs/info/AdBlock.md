@@ -9,7 +9,7 @@ sidebar_label: AdBlock
 - [Can You Block It ?](https://canyoublockit.com) - A Simple Ad Block Tester
 - [Ads Blocker](https://ads-blocker.com) - We Help You By Blocking Ads
 
-## Block with Host
+## AdBlock with Host
 - [Someonewhocares](https://someonewhocares.org/hosts) - How to make the internet not suck (as much)
 - [winhelp2002](https://winhelp2002.mvps.org/hosts.htm) - Blocking Unwanted Connections with a Hosts File
 - [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources
@@ -18,7 +18,7 @@ sidebar_label: AdBlock
 ## AdBlock Extensions
 - [uBlock Origin](https://github.com/gorhill/uBlock#installation) - An efficient Ad blocker, Fast and lean
 - [AdNauseam](https://adnauseam.io) - Fight back against advertising surveillance
-- [Fair Adblocker](https://chrome.google.com/webstore/detail/fair-adblocker/lgblnfidahcdcjddiepkckcfdhpknnjh) - Block annoying ads, popups, malware, and protect your privacy
+- [Fair Adblocker](https://chrome.google.com/webstore/detail/flgblnfidahcdcjddiepkckcfdhpknnjh) - Block annoying ads, popups, malware, and protect your privacy
 - [AdBlock](https://getadblock.com) - Surf the web without annoying pop ups and ads
 - [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) - Say no to ads and trackers
 
