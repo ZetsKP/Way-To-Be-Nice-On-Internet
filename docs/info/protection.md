@@ -53,36 +53,23 @@ sidebar_label: Protection
 - [ControlD](https://controld.com) - Control Your Internet
 
 ## Android Adblocking
-- [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) - Lite Apps Browser
-- [Bromite](https://www.bromite.org/) - Bromite is a Chromium fork with ad blocking and enhanced privacy; take back your browser
 - [AdGuard](https://adguard.com/en/adguard-android/overview.html) - AdGuard is a ad blocker for Android that removes ads in apps and browsers, protects your privacy.
-- [Blokada](https://https://blokada.org/#download) - Blokada is the popular ad blocker and privacy app for Android
+- [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) - Lite Apps Browser
+- [Bromite](https://www.bromite.org) - Bromite is a Chromium fork with ad blocking and enhanced privacy; take back your browser
+- [Blokada](https://blokada.org/#download) - Popular ad blocker and privacy app for Android
 - [AdAway](https://f-droid.org/packages/org.adaway) - AdAway is an open source ad blocker for Android using the hosts file.
-- [personalDNSfilter](https://play.google.com/store/apps/details?id=dnsfilter.android) - adblocker & privacy protection
-- [Daedalus](https://play.google.com/store/apps/details?id=org.itxtech.daedalus) or [Nebulo](https://git.frostnerd.com/PublicAndroidApps/smokescreen/-/blob/master/README.md) - DNS Modifier
-- [Opera](https://www.opera.com/mobile/opera-for-android) - Browser with built in adblocker
-- [Twidere](https://github.com/TwidereProject/Twidere-Android) - Ad-Free Twitter App
-- [MobileAdsBlock](https://gitlab.com/Shub_/mobile-ads-block/-/raw/master/list) - Ad / Tracker filter
-- [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - Block Spam Calls
-- [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls
-- [Slide](https://play.google.com/store/apps/details?id=me.ccrama.redditslide), [2](https://f-droid.org/en/packages/me.ccrama.redditslide/) or [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - Ad Free Reddit Client
+- [personalDNSfilter](https://play.google.com/store/apps/details?id=dnsfilter.android) - AdBblocker & privacy protection
+- [Opera](https://play.google.com/store/apps/details?id=com.opera.browser) - Safe Browwser, Private and Secure Browsing
+- [Hiya](https://play.google.com/store/apps/details?id=com.webascender.callerid) - Call Blocker, Fraud Detection & Caller ID
+- [Infinity for Reddit](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit) - A beautiful, feature-rich Reddit client
 
 ## iOS Adblocking
-
-- ⭐ [AdGuard Pro](https://forum.mobilism.org/search.php?keywords=AdGuard+Pro&sr=topics&sf=titleonly) - Systemwide Adblocker / [Remote](https://apps.apple.com/app/apple-store/id1543143740)
-- [KF Panda-Player](https://apps.apple.com/us/app/kfpanda-player/id1460792262) - Turn any site into a App, without the Ads
-- [1Blocker](https://1blocker.com/) - Ablocker
-- [Ka-Block!](http://kablock.com/) - Adblocker
-- [Sanitize](https://apps.apple.com/ca/app/sanitize-ad-blocker/id1048309542) - Adblocker
-- [Privacy Pro](https://apps.apple.com/ca/app/privacy-pro-smartvpn/id1057771839) - Ad/Trackers Blocker
-- [Lockdown Apps](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) - Adblocker
-- [BlockParty](https://github.com/krishkumar/BlockParty) - Adblocker
-- [Swab](http://swabthe.com/) - Adblocker
-- [Aesther](https://aesther.net/) - Blocks Ads, Trackers, Malware &amp; Revokes
-- [DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351) - DNS Adblocker
-- [Naka AdBlocker](https://apps.apple.com/ca/app/naka-adblocker/id1525185489) - DNS Adblocker
-- [Blokada](https://apps.apple.com/ca/app/blokada/id1508341781) - DNS Adblocker
-- [NextDNS](https://apps.apple.com/ca/app/nextdns/id1463342498) - DNS Adblocker (No fake VPN)
-- [BlockBear](https://apps.apple.com/ca/app/blockbear/id1023924541) or [Adblock Plus for iOS](https://gitlab.com/eyeo/adblockplus/adblock-plus-for-safari) - Safari Adblocker
-- [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - Skip YouTube Sponsorships
-- [Slide](https://apps.apple.com/us/app/slide-for-reddit/id1260626828) - Ad Free Reddit Client
+- [AdGuard Pro](https://apps.apple.com/app/id1047223162) - Ad blocker for Apple that removes ads in apps and browsers, protects your privacy
+- [1Blocker](https://apps.apple.com/app/id1365531024) - The Fastest & Most Powerful Blocker for Safari
+- [Ka-Block!](https://apps.apple.com/app/id1037173557) - Content Blocker for Safari That Prevents Ads.
+- [Sanitize](https://apps.apple.com/app/id1048309542) - Powerful and Efficient ad-blocker
+- [Lockdown Apps](https://apps.apple.com/id1469783711) - Ultra Efficient Ad Blocker for Safari.
+- [DNSCloak](https://apps.apple.com/app/id1452162351) - Secure DNS client
+- [Blokada](https://apps.apple.com/app/id1508341781) - Popular ad blocker and privacy app for Android
+- [BlockBear](https://apps.apple.com/ca/app/id1023924541) - Safari Adblocker
+- [Slide](https://apps.apple.com/us/app/slide-for-reddit/id1260626828) - Feature-packed, Ppen-source, and Ad-free Browser for Reddit
