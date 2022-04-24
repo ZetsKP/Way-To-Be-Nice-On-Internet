@@ -43,7 +43,7 @@ sidebar_label: AdBlock
 - [Technitium DNS Server](https://technitium.com/dns) - Block Ads & Malware at DNS Level for Your Entire Network
 - [Quad9](https://quad9.net/support/set-up-guides/) - A Public and free DNS Service
 - [DuckDNS](https://www.duckdns.org/install.jsp) - Free Dynamic DNS hosted on AWS
-- [FreeMyIP](https://freemyip.com) - Free dynamic DNS. No login required. No ads, newsletters, links to click, expiration dates, etc
+- [FreeMyIP](https://freemyip.com) - Free dynamic DNS. No login required. No ads, newsletters, links to click, expiration dates.
 - [Rethink](https://rethinkdns.com) - Block malware, spyware, ads, and trackers across all apps with RethinkDNS
 - [Pi-Hole](https://pi-hole.net) - Network-wide protection
 - [ControlD](https://controld.com) - Control Your Internet
@@ -69,7 +69,3 @@ sidebar_label: AdBlock
 - [Blokada](https://apps.apple.com/app/id1508341781) - Popular ad blocker and privacy app for Android
 - [BlockBear](https://apps.apple.com/ca/app/id1023924541) - Safari Adblocker
 - [Slide](https://apps.apple.com/us/app/slide-for-reddit/id1260626828) - Feature-packed, Ppen-source, and Ad-free Browser for Reddit
-
-## Track Privacy Policy
-- [Simple Opt Out](https://simpleoptout.com) - Opt out of all the data sharing you wouldn't opt in to
-- [Opt-Out Easy](https://optouteasy.isr.cmu.edu) - Take Control Of Your Privacy
