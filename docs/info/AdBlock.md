@@ -4,7 +4,7 @@ sidebar_label: AdBlock
 ---
 
 ## AdBlock Tester
-- [Ad Blocker Test](https://d3ward.github.io/toolz/adblock) - d3ward
+- [Ad Blocker Test](https://d3ward.github.io/toolz/adblock) - Ad Blocker Test
 - [AdBlock Tester](https://adblock-tester.com) - Test your adblockers
 - [Can You Block It ?](https://canyoublockit.com) - A Simple Ad Block Tester
 - [Ads Blocker](https://ads-blocker.com) - We Help You By Blocking Ads
