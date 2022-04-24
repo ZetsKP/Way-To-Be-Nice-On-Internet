@@ -53,13 +53,12 @@ sidebar_label: Protection
 - [ControlD](https://controld.com) - Control Your Internet
 
 ## Android Adblocking
-- ⭐ [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) or [WebApps](https://github.com/tobykurien/WebApps/) - Makes streaming and other sites more usable for android
-- ⭐ [Bromite](https://www.bromite.org/) - Android browser with powerful adblocking
-- ⭐ [AdGuard](https://forum.mobilism.org/search.php?keywords=adguard&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=25&t=0&submit=Search) - Adblocking App / Premium Unlocked / Mobilism Account Required
-- ⭐ uBlock Origin - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-- [Blokada](https://blokada.org/) - Adblocking App
-- [AdAway](https://adaway.org/) - An open-source ad blocker for Android using the hosts file. needs ROOT access.
-- [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [DNSfilter](https://f-droid.org/en/packages/dnsfilter.android/), [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/) or [Pi-Droid](https://f-droid.org/en/packages/friimaind.piholedroid/) - DNS Adblocker
+- [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) - Lite Apps Browser
+- [Bromite](https://www.bromite.org/) - Bromite is a Chromium fork with ad blocking and enhanced privacy; take back your browser
+- [AdGuard](https://adguard.com/en/adguard-android/overview.html) - AdGuard is a ad blocker for Android that removes ads in apps and browsers, protects your privacy.
+- [Blokada](https://https://blokada.org/#download) - Blokada is the popular ad blocker and privacy app for Android
+- [AdAway](https://f-droid.org/packages/org.adaway) - AdAway is an open source ad blocker for Android using the hosts file.
+- [personalDNSfilter](https://play.google.com/store/apps/details?id=dnsfilter.android) - adblocker & privacy protection
 - [Daedalus](https://play.google.com/store/apps/details?id=org.itxtech.daedalus) or [Nebulo](https://git.frostnerd.com/PublicAndroidApps/smokescreen/-/blob/master/README.md) - DNS Modifier
 - [Opera](https://www.opera.com/mobile/opera-for-android) - Browser with built in adblocker
 - [Twidere](https://github.com/TwidereProject/Twidere-Android) - Ad-Free Twitter App
