@@ -13,14 +13,11 @@ sidebar_label: Security
 
 ## Password Managers
 - [BitWarden](https://bitwarden.com) - The Most Trusted Open Source Password Manager for Business (Android, iOS, Windows, Mac, Linux, Extensions, Etc)
+- [KeePass](https://keepass.info) - Free Password Manager (Android, iOS, Windows, Mac, Linux, Extensions, and More)
 - [KeePassXC](https://keepassxc.org) - Cross-Platform Password Manager (Windows, Mac, Linux)
+- [KeeWeb](https://keeweb.info/) - Free Password Manager compatible with KeePass.
 - [LessPass](https://lesspass.com/) - Stateless Password Manager. (Android, iOS, Extensions)
-- [1Password](https://1password.com/) - Popular cloud-hosted password manager.
-- [KeePass](https://keepass.info/) - Free, open source, light-weight, and easy-to-use password manager.
-  - [Plugins](https://keepass.info/plugins.html) - A list of third-party plugins for KeePass.
-  - [Keepass2Android](https://github.com/PhilippC/keepass2android) - A Password manager app for Android based on Keepass.
-  - [KeePassium](https://keepassium.com/) - KeePassium combines the security of KeePass with a clean intuitive design.
-- [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass.
+- [1Password](https://1password.com/) - The world’s most-loved password manager. (Android, iOS, Windows, Mac, Linux, Extensions, Etc)
 - [Pass](https://www.passwordstore.org/) - Simple GPG/Git password manager. Follows the Unix philosophy.
 - [Dashlane](https://www.dashlane.com/) - An intuitive password manager with over with over 8 million users worldwide.
 - [Passbolt](https://www.passbolt.com/) - Free, open source, self-hosted, extensible, OpenPGP based.
