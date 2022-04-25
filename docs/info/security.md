@@ -16,16 +16,13 @@ sidebar_label: Security
 - [KeePass](https://keepass.info) - Free Password Manager (Android, iOS, Windows, Mac, Linux, Extensions, and More)
 - [KeePassXC](https://keepassxc.org) - Cross-Platform Password Manager (Windows, Mac, Linux)
 - [KeeWeb](https://keeweb.info/) - Free Password Manager compatible with KeePass.
-- [LessPass](https://lesspass.com/) - Stateless Password Manager. (Android, iOS, Extensions)
-- [1Password](https://1password.com/) - The world’s most-loved password manager. (Android, iOS, Windows, Mac, Linux, Extensions, Etc)
-- [Pass](https://www.passwordstore.org/) - Simple GPG/Git password manager. Follows the Unix philosophy.
-- [Dashlane](https://www.dashlane.com/) - An intuitive password manager with over with over 8 million users worldwide.
-- [Passbolt](https://www.passbolt.com/) - Free, open source, self-hosted, extensible, OpenPGP based.
-- [Psono](https://psono.com/) - Open source and self-hosted password manager for teams.
-- [Buttercup](https://buttercup.pw/) - Another open source password manager with desktop, mobile, and browser clients.
-- [MiniKeePass](https://minikeepass.github.io/) - iOS version of KeePass (_unofficial_).
-- [KeeVault](http://keevault.pm/) - Secure, Open Source Password Management.
-- [LastPass (Last Choice)](https://www.lastpass.com/) - LastPass remembers all your passwords, so you don't have to.
+- [LessPass](https://lesspass.com) - Stateless Password Manager. (Android, iOS, Extensions)
+- [1Password](https://1password.com) - The world’s most-loved password manager. (Android, iOS, Windows, Mac, Linux, Extensions, Etc)
+- [Passbolt](https://www.passbolt.com) - The open source password manager (Android, iOS, Linux, Extensions)
+- [Psono](https://psono.com) - Open source and self-hosted password manager for teams (Android, iOS, Linux, Extensions)
+- [Buttercup](https://buttercup.pw) - Simple password manager designed to help manage your credentials (Android, iOS, Windows, Mac, Linux, Extensions)
+- [Keeper](https://www.keepersecurity.com/download.html) - A great password manager with top-notch security (Android, iOS, Windows, Mac, Linux)
+- [NordPass](https://nordpass.com) - Securely store, Manage & Autofill Passwords (Android, iOS, Windows, Mac, Linux)
 
 ## Alternate Networks
 
