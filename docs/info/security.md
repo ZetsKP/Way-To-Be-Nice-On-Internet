@@ -4,25 +4,17 @@ sidebar_label: Security
 ---
 
 ## Secure Messenger
-
-- [Signal](http://signal.org/)
-- [Briar](http://briarproject.org/)
-- [Riot](http://matrix.org/blog/home/)
-- [Threema](http://threema.ch/en)
-- [Wire](http://wire.com/)
+- [Signal](https://signal.org/download) - Private Messenger (Android, iOS, Windows, Mac, Linux)
+- [Briar](https://element.io/get-started) - Secure messaging, anywhere (Android, iOS)
+- [Element](https://element.io/get-started) - Secure and independent communication, connected via Matrix (Android, iOS, Windows, Mac, Linux)
+- [Threema](http://threema.ch/en) - The secure messenger for individuals and business (Android, iOS, Windows, Mac, Linux)
+- [Wire](http://wire.com) - Most secure collboration platform (Android, iOS, Windows, Mac, Linux)
+- [wickr](https://wickr.com/downloads) - Secure collboration service (Android, iOS, Windows, Mac, Linux)
 
 ## Password Managers
-
-:::caution
-
-[LastPass security issues](https://en.wikipedia.org/wiki/LastPass#Security_issues) - Wikipedia
-
-:::
-
-- [Wikipedia's list of Password Managers](http://en.wikipedia.org/wiki/List_of_password_managers) - Overview of all password manager utilities.
-- [BitWarden](https://bitwarden.com/) - Open source password management solution, can be self-hosted.
-- [KeePassXC](https://keepassxc.org/) - KeePassXC is a community fork of KeePassX, a native cross-platform port of KeePass Password Safe.
-- [LessPass](https://lesspass.com/) - Stateless open source password manager.
+- [BitWarden](https://bitwarden.com) - The Most Trusted Open Source Password Manager for Business (Android, iOS, Windows, Mac, Linux, Extensions, Etc)
+- [KeePassXC](https://keepassxc.org) - Cross-Platform Password Manager (Windows, Mac, Linux)
+- [LessPass](https://lesspass.com/) - Stateless Password Manager. (Android, iOS, Extensions)
 - [1Password](https://1password.com/) - Popular cloud-hosted password manager.
 - [KeePass](https://keepass.info/) - Free, open source, light-weight, and easy-to-use password manager.
   - [Plugins](https://keepass.info/plugins.html) - A list of third-party plugins for KeePass.
