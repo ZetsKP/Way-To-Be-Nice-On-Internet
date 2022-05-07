@@ -45,4 +45,33 @@ sidebar_label: VPN
 - [hide.me](hide.me) - World's Fastest VPN and Privacy Protection ([Price](https://hide.me/en/pricing))
 - [Windscribe](https://windscribe.com) - Free VPN and Ad Block ([Price](https://windscribe.com/upgrade))
 - [IVPN](https://www.ivpn.net) - VPN for Privacy & Security ([Price](https://www.ivpn.net/pricing))
+- [AdGuard VPN](https://adguard-vpn.com/) - AdGuard VPN for your privacy and security ([Price](https://adguard-vpn.com/license.html))
 - [Mozilla VPN](https://www.mozilla.org/products/vpn) - Security, reliability and speed — on every device, anywhere you go. ([Join the Waitlist](https://www.mozilla.org/products/vpn/invite))
+- [Speedify](https://speedify.com) - Use all of your Internet connections at the same time ([Price](https://speedify.com/store))
+- [Kaspersky VPN Secure Connection](https://www.kaspersky.com/vpn-secure-connection) - The secure way to enjoy the web without compromising on speed
+- [Turbo VPN](https://turbovpn.com) - Best Unlimited & Fast VPN Services ([Price](https://turbovpn.com/pricing))
+- [PrivadoVPN](https://privadovpn.com/) - Fast and Secure VPN You Can Trust ([Price](https://signup.privadovpn.com/))
+- [RiseupVPN](https://riseup.net/vpn) - Personal VPN service for censorship circumvention, location anonymization and traffic encryption
+- [Touch VPN](https://touchvpn.net) - The VPN service that keeps your devices secure & private
+- [UrbanVPN](https://www.urban-vpn.com/) - The only 100% FREE, 100% fast & 100% anonymous VPN in the world
+
+## Self-hosted VPN
+- [Algo VPN](https://github.com/trailofbits/algo) - A set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN
+- [Cloudron](https://www.cloudron.io) -  A solution that allows anybody to create private clouds instantaneously
+- [DSVPN](https://github.com/jedisct1/dsvpn) - Designed to address the most common use case for using a VPN
+- [Mysterium Network](https://www.mysterium.network) - a decentralized private network infrastructure for Web3
+- [Nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
+- [OpenConnect VPN](https://ocserv.gitlab.io) - Open source Linux SSL VPN server designed for organizations
+- [OpenVPN](https://openvpn.net) - OpenVPN provides flexible VPN solutions to secure your data communications
+- [Outline VPN](https://www.getoutline.org) - Access to the free and open Internet
+- [Pritunl](https://pritunl.com) - Open Source Enterprise Distributed OpenVPN, IPsec and WireGuard Server
+- [SoftEther VPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software
+- [WireGuard](https://www.wireguard.com) - Fast, Modern, Secure VPN Tunnel
+
+## Decentralized VPN
+- [n2n](https://github.com/ntop/n2n) - Light VPN software which makes it easy to create virtual networks bypassing intermediate firewalls
+- [ZeroTier](https://www.zerotier.com) - ZeroTier combines the capabilities of VPN and SD-WAN, simplifying network management
+- [tinc](https://tinc-vpn.org) - VPN daemon that uses tunnelling and encryption to create a secure private network between hosts on the Internet
+- [RadVPN](https://github.com/mehrdadrad/radvpn) - A Decentralized VPN
+- [Mysterium Network](https://www.mysteriumvpn.com) - Unblock Content and Browse Anonymously
+- [TachyonVpn](https://github.com/tachyon-protocol/TachyonVpn) - A Decentralized VPN
