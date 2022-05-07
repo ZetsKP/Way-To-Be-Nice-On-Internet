@@ -68,4 +68,4 @@ sidebar_label: AdBlock
 - [DNSCloak](https://apps.apple.com/app/id1452162351) - Secure DNS client
 - [Blokada](https://apps.apple.com/app/id1508341781) - Popular ad blocker and privacy app for Android
 - [BlockBear](https://apps.apple.com/ca/app/id1023924541) - Safari Adblocker
-- [Slide](https://apps.apple.com/us/app/slide-for-reddit/id1260626828) - Feature-packed, Ppen-source, and Ad-free Browser for Reddit
+- [Slide](https://apps.apple.com/us/app/slide-for-reddit/id1260626828) - Feature-packed, Open-source, and Ad-free Browser for Reddit
