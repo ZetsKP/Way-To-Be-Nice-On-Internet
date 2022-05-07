@@ -18,13 +18,6 @@ sidebar_label: VPN
 - [SafeHome](https://www.safehome.org/vpn/best) - Best VPN Service of 2022
 - [Tech Advisor](https://www.techadvisor.com/buying-advice/internet/vpn-deals-3667656) - Best VPN Deals for May 2022
 
-## VPN Communities on Reddit
-- [r/VPN](https://www.reddit.com/r/VPN) - Virtual Private Networks
-- [r/VPNAdvice](https://www.reddit.com/r/VPNAdvice) - VPNAdvice
-- [r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) - Discussions of torrenting over VPNs
-- [r/PrivateInternetAccess](https://www.reddit.com/r/PrivateInternetAccess) - Private Internet Access
-- [r/vpnreviews](https://www.reddit.com/r/vpnreviews) - VPN Reviews
-
 ## VPN Services
 - [ExpressVPN](https://www.expressvpn.com) - High-Speed, Secure & Anonymous VPN Service ([Price](https://www.expressvpn.com/order))
 - [Private Internet Access](https://www.privateinternetaccess.com) - The #1 Best VPN Service For 10 years ([Price](https://www.privateinternetaccess.com/buy-vpn-online))
@@ -75,3 +68,10 @@ sidebar_label: VPN
 - [RadVPN](https://github.com/mehrdadrad/radvpn) - A Decentralized VPN
 - [Mysterium Network](https://www.mysteriumvpn.com) - Unblock Content and Browse Anonymously
 - [TachyonVpn](https://github.com/tachyon-protocol/TachyonVpn) - A Decentralized VPN
+
+## VPN Communities on Reddit
+- [r/VPN](https://www.reddit.com/r/VPN) - Virtual Private Networks
+- [r/VPNAdvice](https://www.reddit.com/r/VPNAdvice) - VPNAdvice
+- [r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) - Discussions of torrenting over VPNs
+- [r/PrivateInternetAccess](https://www.reddit.com/r/PrivateInternetAccess) - Private Internet Access
+- [r/vpnreviews](https://www.reddit.com/r/vpnreviews) - VPN Reviews
