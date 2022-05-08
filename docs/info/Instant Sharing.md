@@ -3,7 +3,7 @@ title: VPN
 sidebar_label: VPN
 ---
 
-## Plain Text Sharing
+## Text Sharing
 - [Pastebin](https://pastebin.com) - #1 paste tool since 2002!
 - [ZeroBin](https://zerobin.net) - Minimalist, open source online pastebin
 - [ControlC Pastebin](https://controlc.com) - The easiest way to host your text
@@ -15,10 +15,8 @@ sidebar_label: VPN
 - [Context](https://ctxt.io) - share whatever you see with others in seconds
 - [MarsPaste](https://marspaste.com) - Paste Text and Share It Online in 3s
 - [JustPaste.it](https://justpaste.it) - paste text and share with your friends
-- [#](#) - #
-
-## Markdown Sharing
 - [Rentry](https://rentry.co) - Markdown Pastebin
+- [#](#) - #
 
 ## Image Sharing
 - [imgbox](https://imgbox.com) - fast, simple, image host
