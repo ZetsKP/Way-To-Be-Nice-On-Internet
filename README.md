@@ -1,5 +1,3 @@
-Made by Zets
-
 <div align="center">
   <a href="https://piracy.now.sh"><img width="120" src="https://piracy.now.sh/img/logo.svg" alt="arrrr!"></a>
   <br />
@@ -7,6 +5,8 @@ Made by Zets
 </div>
 
 This website is a collection of the best digital piracy resources. This will help you get started on your pirate voyage.
+
+Made by Zets
 
 ## FAQ
 
