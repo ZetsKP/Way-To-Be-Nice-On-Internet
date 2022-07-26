@@ -1,3 +1,5 @@
+Made by Zets
+
 <div align="center">
   <a href="https://piracy.now.sh"><img width="120" src="https://piracy.now.sh/img/logo.svg" alt="arrrr!"></a>
   <br />
