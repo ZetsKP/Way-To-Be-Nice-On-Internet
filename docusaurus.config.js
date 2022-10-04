@@ -39,13 +39,6 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      announcementBar: {
-        id: "star",
-        content:
-          '<b><a target="_blank" href="https://github.com/ZetsKP/Bajakan">PLEASE LEAVE A STAR ON GITLAB</a></b>',
-        backgroundColor: "var(--ifm-background-surface-color)",
-        textColor: "var(--ifm-color-primary)",
-      },
     }),
   presets: [
     [
